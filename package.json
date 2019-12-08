@@ -10,7 +10,7 @@
      "test":"make test"
    },
    "dependencies":{
-      "coffee-script":"*"
+      "coffeescript":"*"
    },
    "devDependencies":{
       "should":"*",
